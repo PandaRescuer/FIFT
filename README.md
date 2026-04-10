@@ -1,6 +1,5 @@
-# FIFT
 
-<img src="./img/FIFT_logo2.png" width="800">
+<p align="center"><a href="./img/FIFT_logo2.png" target="_blank"><img align="center" width="500" height="200" src="./img/FIFT_logo2.png"></a></p>
 
 
 > [!NOTE]  
